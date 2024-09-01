@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Silo\\source\\repos\\UssdStdev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{198FAA13-9A6F-4F52-9B8A-DD650F620AF3}|UssdStdev.csproj|c:\\users\\silo\\source\\repos\\ussdstdev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198FAA13-9A6F-4F52-9B8A-DD650F620AF3}|UssdStdev.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198FAA13-9A6F-4F52-9B8A-DD650F620AF3}|UssdStdev.csproj|c:\\users\\silo\\source\\repos\\ussdstdev\\mqttclientmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198FAA13-9A6F-4F52-9B8A-DD650F620AF3}|UssdStdev.csproj|solutionrelative:mqttclientmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198FAA13-9A6F-4F52-9B8A-DD650F620AF3}|UssdStdev.csproj|c:\\users\\silo\\source\\repos\\ussdstdev\\serialportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198FAA13-9A6F-4F52-9B8A-DD650F620AF3}|UssdStdev.csproj|solutionrelative:serialportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198FAA13-9A6F-4F52-9B8A-DD650F620AF3}|UssdStdev.csproj|c:\\users\\silo\\source\\repos\\ussdstdev\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198FAA13-9A6F-4F52-9B8A-DD650F620AF3}|UssdStdev.csproj|solutionrelative:config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SerialPortManager.cs",
+              "DocumentMoniker": "C:\\Users\\Silo\\source\\repos\\UssdStdev\\SerialPortManager.cs",
+              "RelativeDocumentMoniker": "SerialPortManager.cs",
+              "ToolTip": "C:\\Users\\Silo\\source\\repos\\UssdStdev\\SerialPortManager.cs",
+              "RelativeToolTip": "SerialPortManager.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwIUBAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T02:47:38.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\Silo\\source\\repos\\UssdStdev\\Config.cs",
+              "RelativeDocumentMoniker": "Config.cs",
+              "ToolTip": "C:\\Users\\Silo\\source\\repos\\UssdStdev\\Config.cs",
+              "RelativeToolTip": "Config.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwDMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T02:47:29.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MqttClientManager.cs",
+              "DocumentMoniker": "C:\\Users\\Silo\\source\\repos\\UssdStdev\\MqttClientManager.cs",
+              "RelativeDocumentMoniker": "MqttClientManager.cs",
+              "ToolTip": "C:\\Users\\Silo\\source\\repos\\UssdStdev\\MqttClientManager.cs",
+              "RelativeToolTip": "MqttClientManager.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T02:47:27.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Silo\\source\\repos\\UssdStdev\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Silo\\source\\repos\\UssdStdev\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T02:43:31.897Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "SerialPort": {
+    "Baude": 115200
+  },
+  "Mqtt": {
+    "Broker": "tracker.hypervigi.com",
+    "Port": 1883,
+    "Username": "root",
+    "Password": "P@sswordathv",
+    "Topic": "ussd/gsm",
+    "ClientId": "client_159595"
+  },
+  "Application": {
+    "Name": "STDev-Ussd",
+    "Version": "1.0.0"
+  }
+}
